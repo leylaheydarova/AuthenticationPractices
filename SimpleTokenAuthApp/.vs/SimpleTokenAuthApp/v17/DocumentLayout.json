@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\simpletokenauthapp\\simpletokenauthapp\\handlers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|solutionrelative:simpletokenauthapp\\handlers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\simpletokenauthapp\\simpletokenauthapp\\handlers\\securecontentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|solutionrelative:simpletokenauthapp\\handlers\\securecontentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\simpletokenauthapp\\simpletokenauthapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|solutionrelative:simpletokenauthapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\simpletokenauthapp\\simpletokenauthapp\\handlers\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|solutionrelative:simpletokenauthapp\\handlers\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\simpletokenauthapp\\simpletokenauthapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E9BAE-354D-415D-A0DC-3B163DE1CE4B}|SimpleTokenAuthApp\\SimpleTokenAuthApp.csproj|solutionrelative:simpletokenauthapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecureContentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\SecureContentManager.cs",
+              "RelativeDocumentMoniker": "SimpleTokenAuthApp\\Handlers\\SecureContentManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\SecureContentManager.cs",
+              "RelativeToolTip": "SimpleTokenAuthApp\\Handlers\\SecureContentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:59.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "SimpleTokenAuthApp\\Handlers\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\AuthManager.cs",
+              "RelativeToolTip": "SimpleTokenAuthApp\\Handlers\\AuthManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:20:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\TokenManager.cs",
+              "RelativeDocumentMoniker": "SimpleTokenAuthApp\\Handlers\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Handlers\\TokenManager.cs",
+              "RelativeToolTip": "SimpleTokenAuthApp\\Handlers\\TokenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:19:44.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SimpleTokenAuthApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Models\\User.cs",
+              "RelativeToolTip": "SimpleTokenAuthApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:19:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTokenAuthApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SimpleTokenAuthApp\\SimpleTokenAuthApp\\Program.cs",
+              "RelativeToolTip": "SimpleTokenAuthApp\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:18:41.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
