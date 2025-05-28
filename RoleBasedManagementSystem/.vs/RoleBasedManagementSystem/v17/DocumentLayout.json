@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\controllers\\managementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\controllers\\managementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\dtos\\rolegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\dtos\\rolegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\rolebasedmanagementsystem\\rolebasedmanagementsystem.app\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74E7D6D-625B-4C06-BFB4-9DD51A84339C}|RoleBasedManagementSystem.App\\RoleBasedManagementSystem.App.csproj|solutionrelative:rolebasedmanagementsystem.app\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Dtos\\RoleGetDto.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Dtos\\RoleGetDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Dtos\\RoleGetDto.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Dtos\\RoleGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:12:14.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagementsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Controllers\\ManagementsController.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Controllers\\ManagementsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Controllers\\ManagementsController.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Controllers\\ManagementsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:07:14.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Program.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:05:52.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:04:52.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Models\\Permission.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Models\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:03:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "RoleBasedManagementSystem.App\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\RoleBasedManagementSystem\\RoleBasedManagementSystem.App\\Models\\Role.cs",
+              "RelativeToolTip": "RoleBasedManagementSystem.App\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:02:46.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
