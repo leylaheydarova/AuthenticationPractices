@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\oauth\\oauthclient\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|solutionrelative:oauthclient\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\oauth\\oauthclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|solutionrelative:oauthclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\oauth\\oauthclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|solutionrelative:oauthclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\oauth\\oauthclient\\models\\indexmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E0FCB-DAD4-4E05-980A-DDED296B7438}|OAuthClient\\OAuthClient.csproj|solutionrelative:oauthclient\\models\\indexmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6854692-5334-457D-A716-4DB99E76A702}|OAuthServer\\OAuthServer.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\oauth\\oauthserver\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6854692-5334-457D-A716-4DB99E76A702}|OAuthServer\\OAuthServer.csproj|solutionrelative:oauthserver\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OAuthClient\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OAuthClient\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:45:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OAuthClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OAuthClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T19:44:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Program.cs",
+              "RelativeDocumentMoniker": "OAuthClient\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Program.cs",
+              "RelativeToolTip": "OAuthClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:43:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexMode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Models\\IndexMode.cs",
+              "RelativeDocumentMoniker": "OAuthClient\\Models\\IndexMode.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthClient\\Models\\IndexMode.cs",
+              "RelativeToolTip": "OAuthClient\\Models\\IndexMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:43:07.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthServer\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "OAuthServer\\Controllers\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\OAuth\\OAuthServer\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "OAuthServer\\Controllers\\OAuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:36:50.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
