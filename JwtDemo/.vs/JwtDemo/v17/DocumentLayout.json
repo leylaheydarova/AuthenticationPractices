@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtdemo\\jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|solutionrelative:jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtdemo\\jwtdemo\\jwtdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|solutionrelative:jwtdemo\\jwtdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtdemo\\jwtdemo\\jwtcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA92BE77-5FBF-4401-9934-CF88921B79C6}|JwtDemo\\JwtDemo.csproj|solutionrelative:jwtdemo\\jwtcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtDecoder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\JwtDecoder.cs",
+              "RelativeDocumentMoniker": "JwtDemo\\JwtDecoder.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\JwtDecoder.cs",
+              "RelativeToolTip": "JwtDemo\\JwtDecoder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:08:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtCreator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\JwtCreator.cs",
+              "RelativeDocumentMoniker": "JwtDemo\\JwtCreator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\JwtCreator.cs",
+              "RelativeToolTip": "JwtDemo\\JwtCreator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:00:45.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JwtDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtDemo\\JwtDemo\\Program.cs",
+              "RelativeToolTip": "JwtDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:59:22.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
