@@ -25,9 +25,18 @@ namespace JwtDemo
             var jwtToken = tokenHandler.ReadJwtToken(token);
             var claims = jwtToken.Claims.ToDictionary(c => c.Type, c => (object)c.Value);
 
-            foreach(var claim in claims)
+            try
             {
-                Console.WriteLine($"{claim.Key} : {claim.Value}");
+                var principal = tokenHandler.ValidateToken(token, validationParameters, out SecurityToken validatedToken);
+                Console.WriteLine("Decoded Claims:");
+                foreach (var claim in principal.Claims)
+                {
+                    Console.WriteLine($"{claim.Type}: {claim.Value}");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Token validation failed: {ex.Message}");
             }
         }
     }
