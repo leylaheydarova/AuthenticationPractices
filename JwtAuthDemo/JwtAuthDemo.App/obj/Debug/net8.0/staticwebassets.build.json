@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5ZKuqOy0WFo07rC5DmrqQ0E1rPDxFIADFDqlpcIths8=",
+  "Source": "JwtAuthDemo.App",
+  "BasePath": "_content/JwtAuthDemo.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
