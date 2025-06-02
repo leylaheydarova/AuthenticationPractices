@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VVNF8BxPXEl+bNOiKE3I24AeiHSknET6FYk+SNk6Bu4=",
+  "Source": "SecureApiWithJwt.App",
+  "BasePath": "_content/SecureApiWithJwt.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
