@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\jwtauthexample\\jwtauthexample.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5843CED7-11A2-4244-A13B-7BE9EAF75D9D}|JwtAuthExample.App\\JwtAuthExample.App.csproj|solutionrelative:jwtauthexample.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Models\\Token.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:55:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Models\\AppUser.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:43:33.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:41:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Controllers\\AuthsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:40:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Services\\TokenService.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Services\\TokenService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwv0QAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:37:46.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\appsettings.json",
+              "RelativeToolTip": "JwtAuthExample.App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T19:34:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthExample.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\JwtAuthExample\\JwtAuthExample.App\\Program.cs",
+              "RelativeToolTip": "JwtAuthExample.App\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:31:55.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
