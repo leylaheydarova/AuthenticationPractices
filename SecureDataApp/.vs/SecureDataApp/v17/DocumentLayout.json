@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\securedataapp\\securedata.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|solutionrelative:securedata.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\securedataapp\\securedata.app\\models\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|solutionrelative:securedata.app\\models\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\securedataapp\\securedata.app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|solutionrelative:securedata.app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|c:\\users\\user\\desktop\\learning programming\\student\\coursera\\authentication and security\\securedataapp\\securedata.app\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFAA6DE-F4E1-418B-A0CA-F6B71F4392E1}|SecureData.App\\SecureData.App.csproj|solutionrelative:securedata.app\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 863,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "SecureData.App\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "SecureData.App\\Services\\EncryptionService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:24:29.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Models\\DataStorage.cs",
+              "RelativeDocumentMoniker": "SecureData.App\\Models\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Models\\DataStorage.cs",
+              "RelativeToolTip": "SecureData.App\\Models\\DataStorage.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:21:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "SecureData.App\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Models\\AppUser.cs",
+              "RelativeToolTip": "SecureData.App\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:21:27.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Program.cs",
+              "RelativeDocumentMoniker": "SecureData.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Authentication And Security\\SecureDataApp\\SecureData.App\\Program.cs",
+              "RelativeToolTip": "SecureData.App\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:20:55.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
